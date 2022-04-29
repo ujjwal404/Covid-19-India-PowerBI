@@ -13,3 +13,6 @@ Steps to access:
 * Click on request access or send your email to me at [ujjwalkadam68@gmail.com](mailto:ujjwalkadam68@gmail.com)
 
 ![Screenshot 2022-04-30 at 1 30 27 AM](https://user-images.githubusercontent.com/63122405/166061334-a5199b39-3263-47db-afae-88e7fdec0afc.png)
+
+
+Made by [@UjjwalKadam](https://github.com/ujjwal404)(2019UCS2022), [@TarushBajaj](https://github.com/Tarushfx)(2019UCS2022) and [@Ujjwal](https://github.com/ujjwal2604)(2019UCS2022) as capstone project-3 for CACSC19 course.
